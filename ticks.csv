@@ -1,0 +1,10 @@
+Date,InOut,Area,Wall,Color,Grade,LST,OFRX
+2018-12-05,Inside,TRC MV,HSR,Be,6+,L,RP
+2018-12-05,Inside,TRC MV,HSL,Pu,8+,L,Re
+2018-12-05,Inside,TRC MV,HSL,Be,6+,TR,Re
+2018-12-05,Inside,TRC MV,HSC,W,9,L,OS
+2018-12-05,Inside,TRC MV,Balc,Pk,7,L,OS
+2018-12-05,Inside,TRC MV,Back,R,10b,TR,OS
+2018-12-05,Inside,TRC MV,Back,G,5,TR,F
+2018-12-05,Inside,TRC MV,Back,W,7+,TR,Re
+2018-12-05,Inside,TRC MV,Back,R,5+,TR,Re
